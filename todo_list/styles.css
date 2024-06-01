@@ -1,0 +1,48 @@
+/* Estilos para el encabezado */
+.encabezado {
+    background-color: #28a745; /* Verde */
+    color: #fff; /* Blanco */
+    padding: 1rem; /* Espaciado interno */
+}
+
+/* Estilos para los botones */
+.btn {
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-dark {
+    background-color: #343a40; /* Gris oscuro */
+    color: #fff; /* Blanco */
+}
+
+.btn-dark:hover {
+    background-color: #1d2124; /* Gris más oscuro */
+}
+
+.btn-success {
+    background-color: #28a745; /* Verde */
+    color: #fff; /* Blanco */
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Verde más oscuro */
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Rojo */
+    color: #fff; /* Blanco */
+}
+
+.btn-danger:hover {
+    background-color: #c82333; /* Rojo más oscuro */
+}
+
+
+
